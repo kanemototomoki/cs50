@@ -1,4 +1,6 @@
 fn main() {
     println!("Hello, world!");
-    assert_eq!(1, 1);
+    let a = 1;
+    let b = 1;
+    assert_eq!(a, b);
 }
