@@ -1,2 +1,2 @@
-pub mod mario;
 pub mod credit;
+pub mod mario;
