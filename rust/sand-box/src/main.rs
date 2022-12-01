@@ -3,5 +3,5 @@ mod mario;
 
 fn main() {
     // mario::run();
-    credit::run();
+    // credit::run();
 }
